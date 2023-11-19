@@ -5,4 +5,4 @@ var objet = window
 
 alert(string + num + tableau + objet.location.pathname);
 
-//200
+
