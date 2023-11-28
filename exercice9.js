@@ -2,7 +2,7 @@
 var txt = "New text";
 
 function modifText(txt) {
-    alert(" les divs");
+    alert(" modification des divs");
     
     var elements = document.getElementsByClassName("nom");
 
