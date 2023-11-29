@@ -30,3 +30,10 @@ function UneProcedureQuiSurvole(evenement)
    compteur2++;
    evenement.target.innerHTML = "clicked on" +compteur2+" fois";
 }
+
+
+function hideDiv() {
+   var div = document.getElementById('myDiv');
+   div.style.display = 'none';
+ }
+ 
